@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-image:url("fondoAzul.jpg");
+   color: blue;
+  text-decoration: blink;
+  bottom: auto;
+}
+h2{
+  color: darkblue;
+  top: auto;
+}
+input{
+  border: 5px solid darkcyan;
+  color: white;
+  background-color: black;
+}
+#butt{
+  border: 5px solid #2f3775;
+  background-color: #0008ff;
+}
+Prom.html{
+   background-image:url("fondoAzul.jpg");
+  color: darkmagenta;
+
+  
+}
